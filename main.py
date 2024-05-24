@@ -29,7 +29,7 @@ st.title("📊Многомерный анализ KPI для отраслей п
 # df = pd.read_excel('data.xlsx', sheet_name='Sheet1')
 
 # Добавляем лого
-st.sidebar.image('C:\Python - Streamlit Project\logo_1.png', caption='ФКУ НИИ ФСИН РОССИИ©')
+st.sidebar.image('logo_1.png', caption='ФКУ НИИ ФСИН РОССИИ©')
 
 # Название сайдабара
 st.sidebar.title('Установите срезы данных ниже:')
